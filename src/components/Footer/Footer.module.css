@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #111;
+  border-top: 3px solid #b60000;
+  padding: 1rem;
+  width: 100%;
+  position: absolute;
+}
+
+.footer p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #ddd;
+}
