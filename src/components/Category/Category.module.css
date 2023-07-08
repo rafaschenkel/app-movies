@@ -1,4 +1,9 @@
-.cards {
+.category {
+  display: flex;
+  flex-direction: column;
+}
+
+.category div {
   display: flex;
   gap: 15px;
   flex-wrap: wrap;
