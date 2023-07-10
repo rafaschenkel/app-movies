@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  place-items: center;
+  place-content: center;
+  gap: 20px;
+  min-height: 95vh;
+  width: 100%;
+  background-color: #191919;
+  color: #eee;
+}
